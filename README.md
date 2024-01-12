@@ -1,7 +1,7 @@
 # MediaLab_Python
 This is my new reign
 
-##Students
+## Students
 1. Vanessa Azañedo
 2. Diego Du Pont
 3. Laura Quequejana
