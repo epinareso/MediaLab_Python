@@ -6,3 +6,4 @@ This is my new reign
 2. Diego Du Pont
 3. Laura Quequejana
 4. Eduardo Oré
+5. Roseanne Park
