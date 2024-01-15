@@ -1,6 +1,5 @@
 # MediaLab_Python
-This is my new reign
-
+This is my new space
 ## Students
 1. Vanessa Azañedo
 2. Diego Du Pont
