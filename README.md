@@ -6,11 +6,3 @@ This is my new space
 3. Laura Quequejana
 4. Eduardo Oré
 5. Roseanne Park
-
-
-## Movies
-1. Jennifer's Body
-2. Everything Everywhere All At Once
-3. Mamma Mia
-4. Shrek 2
-5. The devil wears Prada
